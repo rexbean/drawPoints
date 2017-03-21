@@ -1,0 +1,17 @@
+D:\inspiration\DrawPoint\DrawPoint\bin\Debug\DrawPoint.exe
+D:\inspiration\DrawPoint\DrawPoint\bin\Debug\DrawPoint.pdb
+D:\inspiration\DrawPoint\DrawPoint\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\inspiration\DrawPoint\DrawPoint\obj\x86\Debug\DrawPoint.MainForm.resources
+D:\inspiration\DrawPoint\DrawPoint\obj\x86\Debug\DrawPoint.Properties.Resources.resources
+D:\inspiration\DrawPoint\DrawPoint\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\inspiration\DrawPoint\DrawPoint\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\inspiration\DrawPoint\DrawPoint\obj\x86\Debug\DrawPoint.exe
+D:\inspiration\DrawPoint\DrawPoint\obj\x86\Debug\DrawPoint.pdb
+G:\备份数据\inspiration\DrawPoint\DrawPoint\obj\x86\Debug\DrawPoint.exe
+G:\备份数据\inspiration\DrawPoint\DrawPoint\obj\x86\Debug\DrawPoint.pdb
+G:\备份数据\inspiration\DrawPoint\DrawPoint\bin\Debug\DrawPoint.exe
+G:\备份数据\inspiration\DrawPoint\DrawPoint\bin\Debug\DrawPoint.pdb
+G:\备份数据\inspiration\DrawPoint\DrawPoint\obj\x86\Debug\DrawPoint.csprojResolveAssemblyReference.cache
+G:\备份数据\inspiration\DrawPoint\DrawPoint\obj\x86\Debug\DrawPoint.MainForm.resources
+G:\备份数据\inspiration\DrawPoint\DrawPoint\obj\x86\Debug\DrawPoint.Properties.Resources.resources
+G:\备份数据\inspiration\DrawPoint\DrawPoint\obj\x86\Debug\DrawPoint.csproj.GenerateResource.Cache
